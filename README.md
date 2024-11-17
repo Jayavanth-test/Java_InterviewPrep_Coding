@@ -3,3 +3,4 @@ Programming Interview Question preparation
 2. Reverse a string Without using build in Function.
 3. Check if a string is Palindrome or Not.
 4. Fibanonical Series of Nth number.
+5. Factorial of a number.
