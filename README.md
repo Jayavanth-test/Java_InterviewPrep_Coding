@@ -5,3 +5,4 @@ Programming Interview Question preparation
 4. Fibanonical Series of Nth number.
 5. Factorial of a number.
 6. Find Min and Max element in an array without Sorting.
+7. Vowels and Constants Count in Given String.
