@@ -7,3 +7,4 @@ Programming Interview Question preparation
 6. Find Min and Max element in an array without Sorting.
 7. Vowels and Constants Count in Given String.
 8. Check if two strings are Anagram.
+9. SecondLargestNumber in Array Using Java 8 features.
